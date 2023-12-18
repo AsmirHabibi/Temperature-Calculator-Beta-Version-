@@ -18,8 +18,6 @@ using namespace std;
         cin.ignore(10000, '\n');  // Ignore a limited number of characters
         cout << "Invalid input. Please enter a valid double: ";
     }
-
-
         
         C = (F - 32) * 5 / 9;
         cout << "\nTemperature in Celsius is : " << C;
