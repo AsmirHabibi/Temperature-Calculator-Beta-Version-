@@ -10,7 +10,7 @@
 
  > And then open it at you IDE. <br>
 
- > [!NOTE] <br>
+ > [!TIP] <br>
  > You can chose you own IDE.
 
  > ![Screenshot of Opening IDE](/Screenshots/Open%20at%20IDE.PNG)
