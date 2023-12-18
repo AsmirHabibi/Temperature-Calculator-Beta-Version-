@@ -3,7 +3,7 @@
 #include "../Includes/Celsius.hpp"
 #include "../Includes/Fahrenheit.hpp"
 #include "../Includes/thermometer.hpp"
-using namespace std;
+using namespace std; 
 
 int main() { 
     TemperatureAnim jjj;
