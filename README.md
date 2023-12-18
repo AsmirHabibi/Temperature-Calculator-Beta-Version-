@@ -3,5 +3,5 @@
 
 # Instructions
  > [!Instructions] <br>
- > Go to this website <a href="https://desktop.github.com/" target = "_blank">GitHub Desktop</a> and download the app.
+ > Go to this website [GitHub Desktop Website](https://desktop.github.com/ target="_blank") and download the app.
  > ![Screenshot of the Website](/Screenshots/Git%20Hub%20Desktop%20Screenshot.PNG)
