@@ -5,5 +5,5 @@
  > Go to this website [GitHub Desktop Website](https://desktop.github.com/) and download the app.
  > ![Screenshot of the Website](/Screenshots/Git%20Hub%20Desktop%20Screenshot.PNG)
 
- > Then clone or fork the repository.
+ > Open the repoitory in GitHub Desktop.
  > ![Screenshot of Cloning a Repository](/Screenshots/https-url-clone-cli.png)
