@@ -13,3 +13,15 @@
  > You can chose you own IDE.
 
  > ![Screenshot of Opening IDE](/Screenshots/Open%20at%20IDE.PNG)
+
+ > Open your terminal
+ > and then write the following command.
+ > ``` 
+ > cd "../Temperature-Calculator"
+ > ```
+ > and then, write this command.
+ > ``` 
+ > g++ main.cpp src/Greet.cpp src/Kelvin.cpp src/Fahrenheit.cpp src/Celsius.cpp Animation/thermometer.cpp Animation/thermometer1.cpp -IIncludes -o your-filename
+ > ```
+ > ./your-filename.exe
+ > ```
