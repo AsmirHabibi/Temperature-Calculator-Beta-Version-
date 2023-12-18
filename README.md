@@ -8,4 +8,4 @@
  > Open the repoitory in GitHub Desktop.
  > ![Screenshot of Cloning a Repository](/Screenshots/https-url-clone-cli.png)
 
- > 
+ > And then open it at you IDE.
