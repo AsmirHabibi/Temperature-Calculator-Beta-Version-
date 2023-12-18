@@ -7,10 +7,9 @@
 
  > Open the repoitory in GitHub Desktop.
  > ![Screenshot of Cloning a Repository](/Screenshots/https-url-clone-cli.png)
-
  > And then open it at you IDE. <br>
 
- > [!TIP] <br>
+ > [!TIP] 
  > You can chose you own IDE.
 
  > ![Screenshot of Opening IDE](/Screenshots/Open%20at%20IDE.PNG)
